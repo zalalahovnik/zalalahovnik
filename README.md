@@ -1,21 +1,19 @@
-<img src="./images/hello_banner.png" width="100%" style="border-radius: 8px;" />
+<img src="./images/hello_banner.png" width="100%" />
 
-<div style="display: flex;justify-content: center;">
-    <h1>
-        Let's connect!
-    </h1>
-</div>
-
-<div style="display: flex; justify-content: center;">
+<h1 align="center">
+    Let's connect!
+</h1>
+<p align="center">
     <a href="https://www.linkedin.com/in/zala-lahovnik-2a94b1272/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="mailto:zala.lahovnik@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
-</div>
+</p>
 
-## 👩🏼‍💻 &nbsp;A Little Bit About Me and My Interests
+
+## 👩🏼‍💻 &nbsp;A little bit about me and my interests
 
 ```yaml
 name: Zala Lahovnik
@@ -48,6 +46,7 @@ technical_background:
 currently_using: ["JavaScript", "React.js", "Python", "FastAPI", "Docker"]
 hobbies: ["Gaming 🎮", "Digital art 🎨", "Content creation 🎥", "Video editing 🎞️", "Reading 📚", "Gym 🏃🏼‍♀️"]
 ```
+
 
 ## 💻 &nbsp;Some tools I have used and learned
 <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,materialui,react,js,ts,php,jest,wordpress,java,py,go,gcp,firebase,anaconda,express,fastapi,flask,maven,nodejs,sklearn,tensorflow,mongodb,mysql,postgresql,git,github,gitlab,githubactions,docker,latex,postman,powershell,pycharm,webstorm,vscode" />
