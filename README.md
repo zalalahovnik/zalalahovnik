@@ -58,6 +58,7 @@ hobbies: ["Gaming 🎮", "Digital art 🎨", "Content creation 🎥", "Video edi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalalahovnik&langs_count=8&hide=jupyter%20notebook&layout=compact)
 
 
+
 ## 🧩 &nbsp;Projects
 
 A collection of my key projects demonstrating skills in software development, design, and problem-solving.
@@ -69,6 +70,7 @@ A collection of my key projects demonstrating skills in software development, de
 
 <details>
 <summary><strong>Description</strong></summary>
+
 Airly is a web application, which shows current PM2.5 and PM10 level predictions as well as predictions for the next 5 hours. It is a management platform used to detect data drift and prevent forecast deterioration due to model degradation. MLOps is leveraged in GitHub Actions for continous model training and as well in the web application with the option to switch models, when needed. 
 </details>
 
@@ -97,6 +99,7 @@ Airly is a web application, which shows current PM2.5 and PM10 level predictions
 
 <details>
 <summary><strong>Description</strong></summary>
+
 mISLec-4-edu is a learning management system offering courses to students. It enables asynchronous learning, with personalised plans for every student. Students can also leverage the help of our chatbot assistant. For professors we enable fast quiz creation using AI to help prepare exam questions and answers using the created course content.
 </details>
 
@@ -122,6 +125,7 @@ mISLec-4-edu is a learning management system offering courses to students. It en
 
 <details>
 <summary><strong>Description</strong></summary>
+
 Lokator Knjig is a project/solution in collaboration with IZUM with which a person can find their desired book more easily in a library. The book is found through its UDC (Universal Decimal Classificator). The user is then presented with a graphic display of the selected library, where the approximate location of the book is highlighted.
 </details>
 
@@ -147,6 +151,7 @@ Lokator Knjig is a project/solution in collaboration with IZUM with which a pers
 
 <details>
 <summary><strong>Description</strong></summary>
+
 GATree is a Python library designed for implementing evolutionary decision trees using a standard genetic algorithm approach. The library provides functionalities for selection, mutation, and crossover operations within the decision tree structure, allowing users to evolve and optimise decision trees for various classification and clustering tasks. 🌲🧬
 </details>
 
@@ -170,7 +175,7 @@ GATree is a Python library designed for implementing evolutionary decision trees
 
 <details>
 <summary><strong>Description</strong></summary>
-**Description:**  
+
 BotaniAI is a mobile application that blossomed from a university project and is fueled by a passion for the green wonders of nature. 🌳  
 Our mission is to make plant discovery and care accessible, engaging, and educational for everyone — from curious beginners to seasoned plant enthusiasts. 🌼
 
