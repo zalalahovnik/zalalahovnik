@@ -220,4 +220,5 @@ Voice Chef is an innovative application designed to enhance your cooking experie
 Check it out [here](https://voice-chef.vercel.app/).
 
 **Tech Stack:**  
+
 <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=mongo" /> <img src="https://skillicons.dev/icons?i=vercel" />
