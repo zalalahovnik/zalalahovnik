@@ -4,7 +4,7 @@
     Let's connect!
 </h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/zala-lahovnik-2a94b1272/">
+    <a href="https://www.linkedin.com/in/zala-lahovnik/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="mailto:zala.lahovnik@gmail.com">
