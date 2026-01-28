@@ -21,7 +21,7 @@ located_in: Maribor, Slovenia
 current_job: Professional worker in higher education [Full Stack Developer]
 education:
   [
-    "#TODO: Master of Science in Information Technology and Data Engineering"
+    "Master of Science in Information Technology and Data Engineering"
     "Bachelor of Science in Information Technology and Communication Technologies (UN)",
   ]
 
